@@ -1,6 +1,9 @@
 # qtsclassification
 
-This repository contains the source code for the paper "Time Series Quantum Classifiers with Amplitude Embedding". The code will be available once the article has been accepted for publication.
+This repository contains the source code for the paper "Time Series Quantum Classifiers with Amplitude Embedding", published in Quantum Machine Intelligence. Please cite the article as:
+
+M. P. Cuéllar, C. Cano, L. G. B. Ruiz & L. Servadei, "Time series quantum classifiers with amplitude embedding", Quantum Machine Intelligence 5(2), 2023, pp. 1-13.
+
 
 The structure of the code is as follows:
 - Files QXXXXX.py are the main scripts to run the experimentation with the Hybrid Classic/Quantum neural network for the XXXXX dataset.
